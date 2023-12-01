@@ -12,3 +12,4 @@ contracts/flattened/*.sol
 lib/forge-std/
 
 .env
+cache/
